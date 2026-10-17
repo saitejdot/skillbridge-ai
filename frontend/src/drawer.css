@@ -1,0 +1,2 @@
+.drawer-close{display:none;border:0;background:transparent;color:#70809a;margin-left:auto;padding:6px}.drawer-backdrop{display:none}
+@media(max-width:900px){.drawer-close{display:grid;place-items:center}.drawer-backdrop{display:block;position:fixed;inset:0;background:rgba(16,32,59,.25);border:0;z-index:9}.sidebar{z-index:10}}
